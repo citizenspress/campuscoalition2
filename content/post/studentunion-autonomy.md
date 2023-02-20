@@ -1,14 +1,17 @@
 ---
-title: "Ontario universities must respect the autonomy of students’ unions"
-date: 2020-02-21
-toc: true
+categories:
+- News
+date: "2020-02-21"
+description: Students’ unions, founded by and for students, are fully autonomous organizations
+  governed by democratically elected boards and executives. They are membership-driven
+  organizations funded by their members through dues. University administrations do
+  not have the authority and cannot justify violating the legal autonomy of students’
+  unions or any other campus unions.
 linktitle: Student Union Autonomy
+tags: null
 thumbnail: /img/supportstudents.png
-description: "Students’ unions, founded by and for students, are fully autonomous organizations governed by democratically elected boards and executives. They are membership-driven organizations funded by their members through dues. University administrations do not have the authority and cannot justify violating the legal autonomy of students’ unions or any other campus unions."
-categories: 
-- "News"
-tags:
-
+title: Ontario universities must respect the autonomy of students’ unions
+toc: true
 ---
 
 Students’ unions, founded by and for students, are fully autonomous organizations governed by democratically elected boards and executives. They are membership-driven organizations funded by their members through dues.

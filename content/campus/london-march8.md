@@ -1,13 +1,16 @@
-+++
-campuses = ["London Campuses"]
-categories = ["Local Actions"]
-date = "2019-03-07T13:00:00+00:00"
-description = "You are invited to a protest with the London Student Coalition and labour allies this Friday at the office of Elgin-Middlesex-London PC MPP Jeff Yurek. Buses from Fanshawe and Western, and onsite pizza, will be provided by OPSEU."
-linktitle = "London March 8"
-thumbnail = "/img/london.png"
-title = "Protest at MPP Jeff Yurek's office: March 8 @ 11:30am"
-
-+++
+---
+campuses:
+- London Campuses
+categories:
+- Local Actions
+date: "2019-03-07T13:00:00+00:00"
+description: You are invited to a protest with the London Student Coalition and labour
+  allies this Friday at the office of Elgin-Middlesex-London PC MPP Jeff Yurek. Buses
+  from Fanshawe and Western, and onsite pizza, will be provided by OPSEU.
+linktitle: London March 8
+thumbnail: /img/london.png
+title: 'Protest at MPP Jeff Yurek''s office: March 8 @ 11:30am'
+---
 
 You are invited to a protest with the London Student Coalition and labour allies this Friday at the office of Elgin-Middlesex-London PC MPP Jeff Yurek.
 

@@ -1,13 +1,16 @@
-+++
-campuses = []
-categories = ["News"]
-date = 2020-11-02T22:00:00Z
-description = "In a letter to Minister of Colleges and Universities Ross Romano, the OUCC has raised concerns about the privatization of postsecondary education in Ontario and the government's efforts to grant university status to the controversial Canada Christian College."
-linktitle = ""
-thumbnail = "/img/kai-pilger-1k3vsv7iiic-unsplash.jpg"
-title = "Canada Christian College should be denied university status"
-
-+++
+---
+campuses: []
+categories:
+- News
+date: "2020-11-02T22:00:00Z"
+description: In a letter to Minister of Colleges and Universities Ross Romano, the
+  OUCC has raised concerns about the privatization of postsecondary education in Ontario
+  and the government's efforts to grant university status to the controversial Canada
+  Christian College.
+linktitle: ""
+thumbnail: /img/kai-pilger-1k3vsv7iiic-unsplash.jpg
+title: Canada Christian College should be denied university status
+---
 In a letter to Minister of Colleges and Universities Ross Romano, the OUCC has raised concerns about the privatization of postsecondary education in Ontario and the government's efforts to grant university status to the controversial Canada Christian College.
 
 ***

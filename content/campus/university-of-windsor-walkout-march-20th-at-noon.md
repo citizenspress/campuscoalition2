@@ -1,3 +1,8 @@
+---
+_template: coalition_meeting
+---
+
+
 +++
 campuses = ["Windsor"]
 categories = ["Local Actions"]

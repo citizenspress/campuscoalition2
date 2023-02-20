@@ -1,3 +1,8 @@
+---
+_template: coalition_meeting
+---
+
+
 +++
 campuses = ["Fanshawe College", "London Campuses"]
 categories = ["Local Actions"]

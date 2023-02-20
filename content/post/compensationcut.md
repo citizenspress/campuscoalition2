@@ -1,14 +1,19 @@
 ---
-title: Ford's attack on public sector workers' compensation includes university and college workers
-thumbnail: /img/no.jpg
-date: 2019-06-05
-tags:
 categories:
-  - "News"
+- News
+date: "2019-06-05"
+description: The Ford government has introduced legislation to cap increases in total
+  compensation at an average (benefits and wages) of 1% per year for all public sector
+  employees, including university and college workers. The legislation will affect
+  all collective agreements on expiry and last three years. Current bargaining will
+  continue, and while the bill has not passed, it may apply retroactively to deals
+  reached since June 5, 2019.
+menu: null
+tags: null
+thumbnail: /img/no.jpg
+title: Ford's attack on public sector workers' compensation includes university and
+  college workers
 toc: true
-menu: 
-description: "The Ford government has introduced legislation to cap increases in total compensation at an average (benefits and wages) of 1% per year for all public sector employees, including university and college workers. The legislation will affect all collective agreements on expiry and last three years. Current bargaining will continue, and while the bill has not passed, it may apply retroactively to deals reached since June 5, 2019."
-
 ---
 
 The Ford government has introduced legislation to cap increases in total compensation at an average (benefits and wages) of 1% per year for all public sector employees, including university and college workers. The legislation will affect all collective agreements on expiry and last three years. Current bargaining will continue, but while the bill has not passed yet, it's current language says it will apply retroactively to June 5, 2019.

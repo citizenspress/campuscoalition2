@@ -1,14 +1,23 @@
-+++
-campuses = []
-categories = ["News"]
-date = 2022-02-01T04:00:00Z
-description = "The Ontario University and Colleges Coalition echoes the concerns of students and workers across the province about unsafe and rushed plans to return to campus. With notice of returning back to in-person learning for some institutions as soon as January 31, students are nervous about inadequate safety plans, the accessibility of continuing with online learning and academic penalties for those who do not feel safe being back on campus. Without access to critical PPE such as N95 masks, uncertainties about ventilation, lack of routine reporting of COVID-19 case counts, and no physical distancing practices, students and workers know that such an abrupt plan to return to campus is not conducive to learning, and it seriously jeopardizes the safety of all campus community members."
-linktitle = "OUCC-campus-return"
-thumbnail = "/img/claudio-schwarz-purzlbaum-l8ipde99z9c-unsplash.jpg"
-title = "Students and Workers Demand Safer return to campus"
-toc = true
-
-+++
+---
+campuses: []
+categories:
+- News
+date: "2022-02-01T04:00:00Z"
+description: The Ontario University and Colleges Coalition echoes the concerns of
+  students and workers across the province about unsafe and rushed plans to return
+  to campus. With notice of returning back to in-person learning for some institutions
+  as soon as January 31, students are nervous about inadequate safety plans, the accessibility
+  of continuing with online learning and academic penalties for those who do not feel
+  safe being back on campus. Without access to critical PPE such as N95 masks, uncertainties
+  about ventilation, lack of routine reporting of COVID-19 case counts, and no physical
+  distancing practices, students and workers know that such an abrupt plan to return
+  to campus is not conducive to learning, and it seriously jeopardizes the safety
+  of all campus community members.
+linktitle: OUCC-campus-return
+thumbnail: /img/claudio-schwarz-purzlbaum-l8ipde99z9c-unsplash.jpg
+title: Students and Workers Demand Safer return to campus
+toc: true
+---
 
 
 ## English

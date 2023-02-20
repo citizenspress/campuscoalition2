@@ -1,13 +1,18 @@
 ---
-title: "Statement on government-mandated free speech policies"
-date: 2018-09-27
+categories:
+- News
+date: "2018-09-27"
+description: Ontario’s universities and colleges are vital spaces where a culture
+  of rich academic debate and free expression should be fostered. Core to the mandate
+  of our postsecondary institutions is the advancement of knowledge, and that requires
+  our campuses to be places where all community members have the right to speak their
+  minds and respectfully challenge each other intellectually. Faculty associations,
+  labour unions, and student unions deeply believe in these rights, and will continue
+  our collective work to uphold them.
 linktitle: Statement on free speech policies
+tags: null
 thumbnail: /img/oucc-statement.jpg
-description: "Ontario’s universities and colleges are vital spaces where a culture of rich academic debate and free expression should be fostered. Core to the mandate of our postsecondary institutions is the advancement of knowledge, and that requires our campuses to be places where all community members have the right to speak their minds and respectfully challenge each other intellectually. Faculty associations, labour unions, and student unions deeply believe in these rights, and will continue our collective work to uphold them."
-categories: 
-- "News"
-tags:
-
+title: Statement on government-mandated free speech policies
 ---
 
 

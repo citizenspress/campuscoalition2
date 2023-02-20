@@ -1,14 +1,17 @@
 ---
-title: United against Ford government’s reckless attacks on postsecondary education and students
-thumbnail: /img/no.jpg
-date: 2019-01-29
-tags:
 categories:
-  - "News"
+- News
+date: "2019-01-29"
+description: Students and workers are appalled by the Doug Ford government’s shameful
+  attempt to use a tuition fee reduction as a political gimmick to try and hide a
+  $600 million cut to student grants, a $440 million cut to university and college
+  budgets, all and a petty and vindictive attack on democratic students’ unions.
+menu: null
+tags: null
+thumbnail: /img/no.jpg
+title: United against Ford government’s reckless attacks on postsecondary education
+  and students
 toc: true
-menu: 
-description: "Students and workers are appalled by the Doug Ford government’s shameful attempt to use a tuition fee reduction as a political gimmick to try and hide a $600 million cut to student grants, a $440 million cut to university and college budgets, all and a petty and vindictive attack on democratic students’ unions."
-
 ---
 
 

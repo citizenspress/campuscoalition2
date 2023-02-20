@@ -1,3 +1,8 @@
+---
+_template: coalition_meeting
+---
+
+
 +++
 campuses = ["University of Toronto"]
 categories = ["Local Actions"]

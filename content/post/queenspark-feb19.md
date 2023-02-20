@@ -1,18 +1,17 @@
 ---
-title: 'Rally at Queen''s Park: Feb 19 at noon'
+categories:
+- Events
+- News
 date: 2019-02-09 00:00:00 +0000
-thumbnail: "/img/rally.jpg"
 description: What better way to welcome back the government than throwing them a Welcome
   Back Party with students from across the province? Join us for a rally at Queen’s
   Park filled with entertainment, student and solidarity partner speakers, some cupcakes
   and petition collection.
-categories:
-- Events
-- News
+draft: true
 tags:
 - rally
-draft: true
-
+thumbnail: /img/rally.jpg
+title: 'Rally at Queen''s Park: Feb 19 at noon'
 ---
 Rally at Queen’s Park to kick-off a week of actions.
 

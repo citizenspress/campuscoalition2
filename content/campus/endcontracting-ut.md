@@ -1,12 +1,15 @@
 ---
-title: "End Contracting Out at University of Toronto"
-date: 2020-09-02
+campuses:
+- University of Toronto
+categories:
+- News
+- Local Actions
+date: "2020-09-02"
+description: Sign the petition to help CUPE 3261 stop the contracting-out of cleaning
+  services on campus and protect good jobs at the University of Toronto.
 linktitle: CUPE 3261
 thumbnail: /img/3261endcontracting.png
-description: "Sign the petition to help CUPE 3261 stop the contracting-out of cleaning services on campus and protect good jobs at the University of Toronto."
-categories: ["News", "Local Actions"]
-campuses: ["University of Toronto"]
-
+title: End Contracting Out at University of Toronto
 ---
 
 > [*End Contracting Out*](https://www.endcontractingout.com)

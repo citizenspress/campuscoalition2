@@ -1,12 +1,15 @@
 ---
-title: "Court Strikes Down Ford's Student Choice Initiative"
-date: 2019-11-22
+categories:
+- News
+date: "2019-11-22"
+description: Today, the Divisional Court released their unanimous decision deeming
+  the Student Choice Initiative unlawful. From the streets, to the court room, the
+  students united, will never be defeated.
+tags:
+- Student Unions
 thumbnail: /img/studentvictory.jpg
-description: "Today, the Divisional Court released their unanimous decision deeming the Student Choice Initiative unlawful. From the streets, to the court room, the students united, will never be defeated."
-categories: ["News"]
-tags: ["Student Unions"]
+title: Court Strikes Down Ford's Student Choice Initiative
 toc: true
-
 ---
 
 ## Students declare victory in lawsuit against Ford's attempt to defund them

@@ -1,15 +1,20 @@
 ---
-title: Importance of opting-in to student union levies
-date: 2019-08-27
-tags: ["student unions"]
-categories: ["talking points","materials"]
-materials: ["flyer"]
-toc: true
-thumbnail: /img/studentsworkers.jpg
+categories:
+- talking points
+- materials
+date: "2019-08-27"
+description: Now is the time to opt-in. If you know anyone paying tuition fees, urge
+  them to make the right choice and opt-in to all student levy fees that enhance quality
+  of life for everyone on campus.
 draft: false
+materials:
+- flyer
+tags:
+- student unions
+thumbnail: /img/studentsworkers.jpg
+title: Importance of opting-in to student union levies
+toc: true
 weight: 1
-description: "Now is the time to opt-in. If you know anyone paying tuition fees, urge them to make the right choice and opt-in to all student levy fees that enhance quality of life for everyone on campus."
-
 ---
 
 [*Download the flyer here*](/pdfs/OUWCC Handbill_ENG_Final_No crop.pdf)

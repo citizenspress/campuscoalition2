@@ -1,3 +1,8 @@
+---
+_template: coalition_meeting
+---
+
+
 +++
 campuses = ["George Brown College (St. James)"]
 categories = ["Local Actions"]

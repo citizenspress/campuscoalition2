@@ -1,12 +1,18 @@
 ---
-title: "Ottawa PSE Coalition Meeting: Feb 26"
-date: 2019-02-20
+campuses:
+- Ottawa Campuses
+categories:
+- Local Meetings
+date: "2019-02-20"
+description: The Ottawa PSE Coalition invites you and your members to attend our upcoming
+  coalition meeting. We are a group of students and community members that are concerned
+  about the announced changes to OSAP and post-secondary funding as well as how student
+  fees will be collected. We know that these changes will cause uncertain work conditions
+  for staff and faculty, less access to education and lower the value of students’
+  education.
 linktitle: Ottawa PSE Coaltion
 thumbnail: /img/ottawa-coalition.png
-description: "The Ottawa PSE Coalition invites you and your members to attend our upcoming coalition meeting. We are a group of students and community members that are concerned about the announced changes to OSAP and post-secondary funding as well as how student fees will be collected. We know that these changes will cause uncertain work conditions for staff and faculty, less access to education and lower the value of students’ education."
-categories: ["Local Meetings"]
-campuses: ["Ottawa Campuses"]
-
+title: 'Ottawa PSE Coalition Meeting: Feb 26'
 ---
 
 - Tuesday, February 26

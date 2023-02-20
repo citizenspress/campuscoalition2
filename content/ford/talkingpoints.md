@@ -1,14 +1,18 @@
 ---
-title: Talking points on the cuts
-date: 2019-01-28
-tags:
 categories:
-  - "Talking Points"
+- Talking Points
+date: "2019-01-28"
+description: Unfunded 10% Tuition Fee Reduction will result in an approximate 4% cut
+  to university budgets. Universities will be under pressure to outsource, cut services,
+  increase precarious employment, and/or lay-off staff. Regressive OSAP changes will
+  result in massive increased student debt and increased burden for mature students.
+  Elimination of Rand Formula-style funding for student unions. Optional student union dues,
+  ancillary fees, and democratic levies could bankrupt.
+menu: null
+tags: null
+title: Talking points on the cuts
 toc: true
-menu: 
 weight: 1
-description: "Unfunded 10% Tuition Fee Reduction will result in an approximate 4% cut to university budgets. Universities will be under pressure to outsource, cut services, increase precarious employment, and/or lay-off staff. Regressive OSAP changes will result in massive increased student debt and increased burden for mature students. Elimination of Rand Formula-style funding for student unions. Optional student union dues, ancillary fees, and democratic levies could bankrupt."
-
 ---
 
 

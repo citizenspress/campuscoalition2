@@ -1,13 +1,12 @@
 ---
-title: About
-date: 2019-01-01
 authorbox: true
-sidebar: true
-weight: "100"
+date: "2019-01-01"
 menu:
   main:
     weight: 100
-
+sidebar: true
+title: About
+weight: "100"
 ---
 The Ontario Universities and Colleges Coalition is made up of:
 

@@ -1,14 +1,23 @@
-+++
-campuses = []
-categories = ["News"]
-date = 2020-05-26T04:00:00Z
-description = "First and foremost, we hope that you and your family are doing well during these difficult times.  We write as representatives of the Ontario Universities and Colleges Coalition (OUCC)—which represents over 435,000 faculty, staff, and students from every public postsecondary institution in Ontario. We are alarmed by the growing use of invasive proctoring technologies during the forced shift to Emergency Remote Teaching (ERT) at our institutions. In particular, we are deeply concerned that the Ministry, through eCampusOntario and without consultation with sector stakeholders, is funding Proctortrack—a private, for-profit US-based company—on our campuses without any consultation."
-linktitle = ""
-draft = true
-thumbnail = "/img/claudio-schwarz-purzlbaum-l8ipde99z9c-unsplash.jpg"
-title = "Unions and Joint Health and Safety Committees must be involved in planning for return to campus"
-
-+++
+---
+campuses: []
+categories:
+- News
+date: "2020-05-26T04:00:00Z"
+description: First and foremost, we hope that you and your family are doing well during
+  these difficult times.  We write as representatives of the Ontario Universities
+  and Colleges Coalition (OUCC)—which represents over 435,000 faculty, staff, and
+  students from every public postsecondary institution in Ontario. We are alarmed
+  by the growing use of invasive proctoring technologies during the forced shift to
+  Emergency Remote Teaching (ERT) at our institutions. In particular, we are deeply
+  concerned that the Ministry, through eCampusOntario and without consultation with
+  sector stakeholders, is funding Proctortrack—a private, for-profit US-based company—on
+  our campuses without any consultation.
+draft: true
+linktitle: ""
+thumbnail: /img/claudio-schwarz-purzlbaum-l8ipde99z9c-unsplash.jpg
+title: Unions and Joint Health and Safety Committees must be involved in planning
+  for return to campus
+---
 _Today, the Ontario Universities and Colleges Coalition sent the following letter to Minister of Colleges and Universities Ross Romano and_ Minister of Labour, Training and Skills Development _Monte McNaughton._
 
 ***

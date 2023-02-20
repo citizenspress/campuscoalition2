@@ -1,14 +1,22 @@
 ---
-title: Canadian Federation of Students and York Federation of Students file legal challenge against Ontario Government’s Student Choice Initiative
-thumbnail: /img/supportstudents.png
-date: 2019-05-28
-tags:
 categories:
-  - "News"
+- News
+date: "2019-05-28"
+description: The Canadian Federation of Students and the York Federation of Students
+  have jointly filed a legal challenge against the Government of Ontario’s Student
+  Choice Initiative, on the basis that the government lacked the authority to implement
+  such a policy and acted with improper purpose. “This policy is a direct attack on
+  students’ ability to organize and provide essential services on campus,” said Sofia
+  Descalzi, incoming chairperson of the Canadian Federation of Students. “It is a
+  clear attempt to silence students’ unions and student organizations who have a long
+  history of holding administrations and governments accountable when it comes to
+  creating accessible, affordable and safer campuses.”
+menu: null
+tags: null
+thumbnail: /img/supportstudents.png
+title: Canadian Federation of Students and York Federation of Students file legal
+  challenge against Ontario Government’s Student Choice Initiative
 toc: false
-menu: 
-description: "The Canadian Federation of Students and the York Federation of Students have jointly filed a legal challenge against the Government of Ontario’s Student Choice Initiative, on the basis that the government lacked the authority to implement such a policy and acted with improper purpose. “This policy is a direct attack on students’ ability to organize and provide essential services on campus,” said Sofia Descalzi, incoming chairperson of the Canadian Federation of Students. “It is a clear attempt to silence students’ unions and student organizations who have a long history of holding administrations and governments accountable when it comes to creating accessible, affordable and safer campuses.”"
-
 ---
 
 

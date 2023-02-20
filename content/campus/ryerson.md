@@ -1,12 +1,18 @@
 ---
-title: "Ryerson University Campus Coalition Meeting: Feb 13"
-date: 2019-02-10
+campuses:
+- Ryerson
+categories:
+- Local Meetings
+date: "2019-02-10"
+description: We Are The Students Ryerson would like to invite you and your members
+  to attend our upcoming coalition meeting. We are a group of students and community
+  members that are concerned about the announced changes to OSAP and post-secondary
+  funding as well as how student fees will be collected. We know that these changes
+  will cause uncertain work conditions for staff and faculty, less access to education
+  and lower the value of students’ education.
 linktitle: Ryerson Coalition
 thumbnail: /img/ryerson-profile.png
-description: "We Are The Students Ryerson would like to invite you and your members to attend our upcoming coalition meeting. We are a group of students and community members that are concerned about the announced changes to OSAP and post-secondary funding as well as how student fees will be collected. We know that these changes will cause uncertain work conditions for staff and faculty, less access to education and lower the value of students’ education."
-categories: ["Local Meetings"]
-campuses: ["Ryerson"]
-
+title: 'Ryerson University Campus Coalition Meeting: Feb 13'
 ---
 
 - Wednesday, February 13

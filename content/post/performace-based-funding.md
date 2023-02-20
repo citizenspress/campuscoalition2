@@ -1,14 +1,18 @@
-+++
-campuses = []
-categories = ["News"]
-date = 2020-12-11T04:00:00Z
-description = "The Ford government recently announced its plans to steamroll ahead with a reckless “performance” based funding plan. Postsecondary faculty, academic librarians, staff, and students are opposed to this flawed funding experiment and give the government a failing grade for its approach."
-linktitle = "Failing Grade"
-draft = false
-thumbnail = "img/bitmap2.png"
-title = "Ontario university and college faculty, staff, and students give Ford government failing grade on plans for postsecondary education"
-
-+++
+---
+campuses: []
+categories:
+- News
+date: "2020-12-11T04:00:00Z"
+description: The Ford government recently announced its plans to steamroll ahead with
+  a reckless “performance” based funding plan. Postsecondary faculty, academic librarians,
+  staff, and students are opposed to this flawed funding experiment and give the government
+  a failing grade for its approach.
+draft: false
+linktitle: Failing Grade
+thumbnail: img/bitmap2.png
+title: Ontario university and college faculty, staff, and students give Ford government
+  failing grade on plans for postsecondary education
+---
 
 
 The Ford government recently announced its plans to steamroll ahead with a reckless “performance” based funding plan. Postsecondary faculty, academic librarians, staff, and students are opposed to this flawed funding experiment and give the government a failing grade for its approach.

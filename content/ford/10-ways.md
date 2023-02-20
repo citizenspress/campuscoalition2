@@ -1,15 +1,21 @@
-
 ---
-title: 10 Ways Ford Government’s Post Secondary Education Announcement is Bad for Students and their Families
-date: 2019-01-29
-tags:
-categories: ["Factsheets", "Materials"]
-Materials: ["Flyer"]
-toc: true
-menu: 
+Materials:
+- Flyer
+categories:
+- Factsheets
+- Materials
+date: "2019-01-29"
+description: ' Following the Ford Government’s announcement on post-secondary education
+  yesterday further details have emerged that confirm any benefit students may experience
+  from a reduction in tuition fees will be offset by other reckless changes being
+  proposed. These severe changes will be felt across the province by students and
+  their families, faculty, staff and administrations.'
+menu: null
+tags: null
 thumbnail: /img/10ways-header.png
-description: " Following the Ford Government’s announcement on post-secondary education yesterday further details have emerged that confirm any benefit students may experience from a reduction in tuition fees will be offset by other reckless changes being proposed. These severe changes will be felt across the province by students and their families, faculty, staff and administrations."
-
+title: 10 Ways Ford Government’s Post Secondary Education Announcement is Bad for
+  Students and their Families
+toc: true
 ---
 
 ## Ten Negative Effects

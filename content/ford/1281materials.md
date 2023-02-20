@@ -1,14 +1,16 @@
 ---
-title: Say Yes! to campus life and student services
-date: 2019-08-26
-tags:
 categories:
-  - "Factsheets"
+- Factsheets
+date: "2019-08-26"
+description: Beginning this year, you have the option to opt-in, or out, of certain
+  student fees. Here are just some of the many services that these fees pay for -
+  and what you could potentially miss out on! Be sure to support your student levy
+  groups and access their services!
+menu: null
+tags: null
+thumbnail: /img/1281campaign.png
+title: Say Yes! to campus life and student services
 toc: true
-thumbnail: "/img/1281campaign.png"
-menu: 
-description: "Beginning this year, you have the option to opt-in, or out, of certain student fees. Here are just some of the many services that these fees pay for - and what you could potentially miss out on! Be sure to support your student levy groups and access their services!"
-
 ---
 
 

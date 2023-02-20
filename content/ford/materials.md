@@ -1,16 +1,19 @@
 ---
-title: Materials for Organizing
-date: 2019-01-28
+categories:
+- Materials
+date: "2019-01-28"
+description: Below is a list of materials that can help in campus organizing.
 draft: true
-tags:
-categories: ["Materials"]
-materials: ["Flyer","Poster","Petition"]
-toc: true
-menu: 
-weight: 1
+materials:
+- Flyer
+- Poster
+- Petition
+menu: null
+tags: null
 thumbnail: /img/defendvoices.png
-description: "Below is a list of materials that can help in campus organizing."
-
+title: Materials for Organizing
+toc: true
+weight: 1
 ---
 
 See below is a list of materials (in PDF and other formats) that can help in campus organizing. Please contact us if you are in need of printed version of any of these materials.

@@ -1,12 +1,17 @@
 ---
-title: "Contract Instructors at Carleton University vote 92.5% in favour of strike action, if necessary"
-date: 2020-03-09
+campuses:
+- Carleton University
+categories:
+- News
+date: "2020-03-09"
+description: Contract Instructors (CIs) at Carleton University, represented by Unit
+  2, Local 4600 of the Canadian Union of Public Employees (CUPE 4600-2), have voted
+  overwhelmingly this week to authorize job action if necessary to secure a fair deal
+  at the bargaining table.
 linktitle: Carleton 4600
 thumbnail: /img/4600.jpg
-description: "Contract Instructors (CIs) at Carleton University, represented by Unit 2, Local 4600 of the Canadian Union of Public Employees (CUPE 4600-2), have voted overwhelmingly this week to authorize job action if necessary to secure a fair deal at the bargaining table."
-categories: ["News"]
-campuses: ["Carleton University"]
-
+title: Contract Instructors at Carleton University vote 92.5% in favour of strike
+  action, if necessary
 ---
 
 OTTAWA, ON  -  Contract Instructors (CIs) at Carleton University, represented by Unit 2, Local 4600 of the Canadian Union of Public Employees (CUPE 4600-2), have voted overwhelmingly this week to authorize job action if necessary to secure a fair deal at the bargaining table. 

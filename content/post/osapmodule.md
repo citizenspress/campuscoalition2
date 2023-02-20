@@ -1,14 +1,19 @@
 ---
-title: "New OSAP “information module” does nothing to address financial barriers to post-secondary education | CFS Ontario"
-date: 2020-05-22
-toc: true
+categories:
+- News
+date: "2020-05-22"
+description: Ontario Student Assistance Program (OSAP) applications for the 2020-2021
+  academic year opened on May 20. The application now requires students to complete
+  a mandatory “information module” that purports to highlight financial literacy.
+  Students are disappointed in this addition to the OSAP application process, which
+  is both patronizing and does not address the true financial barriers to post-secondary
+  education.
 linktitle: OSAP Module
+tags: null
 thumbnail: /img/student-covid.jpg
-description: "Ontario Student Assistance Program (OSAP) applications for the 2020-2021 academic year opened on May 20. The application now requires students to complete a mandatory “information module” that purports to highlight financial literacy. Students are disappointed in this addition to the OSAP application process, which is both patronizing and does not address the true financial barriers to post-secondary education."
-categories: 
-- "News"
-tags:
-
+title: New OSAP “information module” does nothing to address financial barriers to
+  post-secondary education | CFS Ontario
+toc: true
 ---
 
 [Originally published by the CFS Ontario](https://cfsontario.ca/2020/05/22/new-osap-information-module-does-nothing-to-address-financial-barriers-to-post-secondary-education/)

@@ -1,17 +1,21 @@
 ---
-title: Facts about Ford's cuts
-date: 2019-01-28
-thumbnail: "/img/facts.jpg"
-tags:
-- "student unions"
-- "funding"
 categories:
-  - "Factsheets"
+- Factsheets
+date: "2019-01-28"
+description: Unfunded 10% Tuition Fee Reduction will result in an approximate 4% cut
+  to university budgets. Universities will be under pressure to outsource, cut services,
+  increase precarious employment, and/or lay-off staff. Regressive OSAP changes will
+  result in massive increased student debt and increased burden for mature students.
+  Elimination of Rand Formula-style funding for student unions. Optional student union dues,
+  ancillary fees, and democratic levies could bankrupt.
+menu: null
+tags:
+- student unions
+- funding
+thumbnail: /img/facts.jpg
+title: Facts about Ford's cuts
 toc: true
-menu: 
 weight: 1
-description: "Unfunded 10% Tuition Fee Reduction will result in an approximate 4% cut to university budgets. Universities will be under pressure to outsource, cut services, increase precarious employment, and/or lay-off staff. Regressive OSAP changes will result in massive increased student debt and increased burden for mature students. Elimination of Rand Formula-style funding for student unions. Optional student union dues, ancillary fees, and democratic levies could bankrupt."
-
 ---
 
 An overview of Ontario government's cuts to higher education and the attempted bankrupting of democratic student organizations.

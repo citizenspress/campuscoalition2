@@ -1,12 +1,16 @@
 ---
-title: "We Are the Students Ryerson: Statement on Ford's Cuts"
-date: 2019-02-09
+campuses:
+- Ryerson
+categories:
+- News
+date: "2019-02-09"
+description: A statment by the We Are the Student Ryerson Coaltion in response to
+  the January 17th  provincial government announcement of sweeping rollbacks to the
+  Ontario Student Assistance Program (OSAP), funding for Ontario colleges and universities
+  and dramatically altering how student fees are administered.
 linktitle: Ryerson Coalition
 thumbnail: /img/ryerson-profile.png
-description: "A statment by the We Are the Student Ryerson Coaltion in response to the January 17th  provincial government announcement of sweeping rollbacks to the Ontario Student Assistance Program (OSAP), funding for Ontario colleges and universities and dramatically altering how student fees are administered."
-categories: ["News"]
-campuses: ["Ryerson"]
-
+title: 'We Are the Students Ryerson: Statement on Ford''s Cuts'
 ---
 
 ## How Ryerson students will be impacted

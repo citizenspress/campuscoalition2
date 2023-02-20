@@ -1,12 +1,25 @@
 ---
-title: "Graduate students supports needed during COVID-19 crisis"
-date: 2020-04-21
+categories:
+- News
+date: "2020-04-21"
+description: 'Addressed to Federal Government, Provincial Governments, Canada’s Research
+  Funding Councils, and University senior administrators: The COVID-19 pandemic has
+  posed unprecedented challenges to graduate students across the country. We recognize
+  the steps taken by both the federal and provincial governments, and post-secondary
+  institutions, to protect not just graduate students, but all students, faculty,
+  and staff. These measures include the six-month suspension of student loan repayment
+  and the expansion of the Canada Summer Jobs program. These measures are important
+  steps towards redressing the financial burden on students. However, we would like
+  to emphasize that graduate students are facing additional challenges that have not
+  been addressed. We, the undersigned, want to draw your attention to these unique
+  issues that graduate students are facing as the result of the ongoing crisis, and
+  ask that Federal Government, Provincial Governments, Canada’s Research Funding Councils,
+  and University senior administrators take immediate actions to address these issues.'
+tags:
+- Graduate Students
 thumbnail: /img/grads-covid.png
-description: "Addressed to Federal Government, Provincial Governments, Canada’s Research Funding Councils, and University senior administrators: The COVID-19 pandemic has posed unprecedented challenges to graduate students across the country. We recognize the steps taken by both the federal and provincial governments, and post-secondary institutions, to protect not just graduate students, but all students, faculty, and staff. These measures include the six-month suspension of student loan repayment and the expansion of the Canada Summer Jobs program. These measures are important steps towards redressing the financial burden on students. However, we would like to emphasize that graduate students are facing additional challenges that have not been addressed. We, the undersigned, want to draw your attention to these unique issues that graduate students are facing as the result of the ongoing crisis, and ask that Federal Government, Provincial Governments, Canada’s Research Funding Councils, and University senior administrators take immediate actions to address these issues."
-categories: ["News"]
-tags: ["Graduate Students"]
+title: Graduate students supports needed during COVID-19 crisis
 toc: true
-
 ---
 
 Addressed to Federal Government, Provincial Governments, Canada’s Research Funding Councils, and University senior administrators:

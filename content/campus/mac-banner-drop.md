@@ -1,13 +1,16 @@
-+++
-campuses = ["McMaster University"]
-categories = ["Local Actions"]
-date = "2019-08-21T04:00:00+00:00"
-description = "On August 21, 2019 students of McMaster organized a rally, banner drop, and education outreach on their campus. CUPE Local 3906 Teaching Assistants and Postdoctoral Fellows are in bargaining."
-linktitle = "banner drop"
-thumbnail = "/img/macbannerdrop.jpg"
-title = "Banner Drop at McMaster University"
-
-+++
+---
+campuses:
+- McMaster University
+categories:
+- Local Actions
+date: "2019-08-21T04:00:00+00:00"
+description: On August 21, 2019 students of McMaster organized a rally, banner drop,
+  and education outreach on their campus. CUPE Local 3906 Teaching Assistants and
+  Postdoctoral Fellows are in bargaining.
+linktitle: banner drop
+thumbnail: /img/macbannerdrop.jpg
+title: Banner Drop at McMaster University
+---
 
 CUPE 3906 is currently in bargaining for their Teaching Assistants and Post-Doctoral Fellows at McMaster University. The CUPE local is attempting to challenge Bill 124 and restrictions on wage increases.
 

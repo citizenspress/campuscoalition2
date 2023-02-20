@@ -1,12 +1,11 @@
 ---
-title: Ford's Cuts to PSE and how to fight
+date: "2019-01-28"
+description: Why care and how to get involved.
 linktitle: Ford's Cuts
-date: 2019-01-28
-menu: main 
+menu: main
+title: Ford's Cuts to PSE and how to fight
 toc: true
 weight: 10
-description: "Why care and how to get involved."
-
 ---
 Students and workers are appalled by the Doug Ford government’s shameful attempt to use a tuition fee reduction as a political gimmick to try and hide a $600 million cut to student grants, a $440 million cut to university and college budgets, all and a petty and vindictive attack on democratic students’ unions. 
 
