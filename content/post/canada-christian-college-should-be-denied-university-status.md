@@ -2,7 +2,7 @@
 campuses: []
 categories:
   - News
-date: '2020-11-02T22:00:00Z'
+date: '2020-11-02T22:00:00.000Z'
 description: >-
   In a letter to Minister of Colleges and Universities Ross Romano, the OUCC has
   raised concerns about the privatization of postsecondary education in Ontario
@@ -10,21 +10,19 @@ description: >-
   Canada Christian College.
 linktitle: ''
 thumbnail: /img/kai-pilger-1k3vsv7iiic-unsplash.jpg
-title: Canada Christian College should be denied university status
-_template: coalition_meeting
+title: Canada Christian College should be denied university status (archived)
 ---
-
 
 In a letter to Minister of Colleges and Universities Ross Romano, the OUCC has raised concerns about the privatization of postsecondary education in Ontario and the government's efforts to grant university status to the controversial Canada Christian College.
 
 ***
 
-Hon. Ross Romano  
-Minister of Colleges and Universities  
-Ministry of Training, Colleges and Universities  
-5th Floor, 438 University Ave   
-Toronto, ON M7A 2A5  
-[ross.romano@pc.ola.org](mailto:ross.romano@pc.ola.org)
+Hon. Ross Romano\
+Minister of Colleges and Universities\
+Ministry of Training, Colleges and Universities\
+5th Floor, 438 University Ave\
+Toronto, ON M7A 2A5\
+[ross.romano@pc.ola.org](mailto\:ross.romano@pc.ola.org "")
 
 November 2, 2020
 
@@ -57,7 +55,7 @@ The Ontario Universities and Colleges Coalition
 * Sébastien Lalonde, Chairperson - Canadian Federation of Students–Ontario (CFS-O)
 * Jerry Dias, National President of Unifor
 
-CC: Laura Mae Lindo (Kitchener Centre), the Official Opposition’s Anti-Racism critic. [LLindo-QP@ndp.on.ca](mailto:LLindo-QP@ndp.on.ca)  
-Chris Glover (Spadina—Fort York), the Official Opposition’s Colleges and Universities critic. [CGlover-CO@ndp.on.ca](mailto:CGlover-CO@ndp.on.ca)  
-Kathleen O. Wynne (Don Valley West), Liberal Party’s Colleges and Universities critic. [kwynne.mpp.co@liberal.ola.org](mailto:kwynne.mpp.co@liberal.ola.org)  
-Mike Shreiner, Green Party of Ontario. [Mschreiner@ola.org](mailto:Mschreiner@ola.org)
+CC: Laura Mae Lindo (Kitchener Centre), the Official Opposition’s Anti-Racism critic. [LLindo-QP@ndp.on.ca](mailto\:LLindo-QP@ndp.on.ca "")\
+Chris Glover (Spadina—Fort York), the Official Opposition’s Colleges and Universities critic. [CGlover-CO@ndp.on.ca](mailto\:CGlover-CO@ndp.on.ca "")\
+Kathleen O. Wynne (Don Valley West), Liberal Party’s Colleges and Universities critic. [kwynne.mpp.co@liberal.ola.org](mailto\:kwynne.mpp.co@liberal.ola.org "")\
+Mike Shreiner, Green Party of Ontario. [Mschreiner@ola.org](mailto\:Mschreiner@ola.org "")
