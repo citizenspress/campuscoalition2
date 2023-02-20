@@ -1,0 +1,69 @@
+---
+label: Coalition Meeting
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  description: Title of post
+- name: linktitle
+  label: Linktitle
+  type: text
+  hidden: false
+  default: ''
+  description: Shorter title for link url
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- type: datetime
+  name: date
+  label: Date
+  description: Date of post
+  config:
+    required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: Main image for post
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: campuses
+  label: Campuses
+  type: list
+  hidden: false
+  default: []
+pages:
+- content/campus/carleton-university-campus-coalition-meeting-march-14th.md
+- content/campus/carleton-university-campus-coalition-meeting-march-7.md
+- content/campus/carleton-university-walkout-march-20.md
+- content/campus/fanshawe-college-walkout-march-20th-at-noon.md
+- content/campus/george-brown-college-st-james-campus-walkout-march-20th-at-noon.md
+- content/campus/ocad-walkout-march-20th-at-noon.md
+- content/campus/ottawa-phoning.md
+- content/campus/ottawa-pse-coalition-meeting-march-18th.md
+- content/campus/ryerson-campus-walkout-march-20th-at-noon.md
+- content/campus/university-of-guelph-walkout-march-20th-at-noon.md
+- content/campus/university-of-toronto-mississauga-campus-walkout-march-20th-at-noon.md
+- content/campus/university-of-windsor-walkout-march-20th-at-noon.md
+- content/campus/uoft-scarborough-coalition-meeting-march-4.md
+- content/campus/uoft-st-george-campus-walkout-march-20th-at-noon.md
+- content/campus/western-university-walkout-march-20th-at-noon.md
+- content/post/canada-christian-college-should-be-denied-university-status.md
+- content/post/from-across-ontario-faculty-students-and-staff-call-on-ross-romano-to-provide-more-funding-for-laurentian-university.md
+- content/post/june-7-8-days-of-action-resist-ford-cuts.md
+- content/post/ocufa-estimates-ford-s-performance-funding-could-cut-university-budgets-by-over-500-million-dollars.md
+- content/post/ontario-faculty-staff-and-students-oppose-ford-government-s-performance-funding-for-postsecondary-institutions.md
+- content/post/ontario-s-postsecondary-staff-students-and-faculty-support-paid-sick-days-for-all.md
+- content/post/oucc-opposes-bill-307-and-ford-s-attempt-to-silence-workers-and-students.md
+- content/post/oucc-sends-letter-of-solidarity-for-striking-support-workers-at-university-of-ottawa.md
+- content/post/oucc-statement-on-july-29-day-of-action.md
+- content/post/student-walk-out-at-noon-on-march-20.md
+- content/post/students-faculty-and-staff-raise-concerns-about-use-of-invasive-proctoring-software.md
+- content/post/unions-and-joint-health-and-safety-committees-must-be-part-of-planning-for-return-to-campus.md

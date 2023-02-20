@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+TZURL:http://tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20190305T013425Z
+UID:20190305T013425Z-669152514@marudot.com
+DTSTART;TZID=America/New_York:20190320T120000
+DTEND;TZID=America/New_York:20190320T130000
+SUMMARY:Student Walkout
+URL:https%3A%2F%2Fcampuscoalition.org%2Fpost%2Fstudent-walk-out-at-noon-on-march-20%2F
+DESCRIPTION:Join students from across the province in a walk out on Wednesday March 20 at 12 pm to demonstrate to the Ontario government that we will not tolerate their attacks on students.\n\nStudents are walking out of the classes and calling on the government to:\n\n• Provide More Grants NOT loans\,\n• Eliminate Tuition Fees for ALL Students\,\n• Increase Public Funding for Public Education\,\n• Protect Students’ Independent Voices\, and\n• Demand the Right to Organize.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Student Walkout
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+{{- if isset .Site.Taxonomies "materials" }}
+{{- if not (eq (len .Site.Taxonomies.materials) 0) }}
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Material Type</h4>
+	<div class="widget__content">
+		{{- range $name, $items := .Site.Taxonomies.materials }}
+		<a class="widget-taglist__link widget__link btn" href="{{ "materials/" | relLangURL }}{{ $name | urlize | lower }}" title="{{ $name | humanize }}">{{ $name | humanize }}{{ if $.Site.Params.widgets.tags_counter }} ({{ $items.Count }}){{ end }}</a>
+		{{- end }}
+	</div>
+</div>
+{{- end }}
+{{- end }}

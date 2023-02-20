@@ -1,0 +1,50 @@
+baseurl = "https://campuscoalition.org/"
+title = "Ontario Universities & Colleges Coalition"
+languageCode = "en-us"
+paginate = "20" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[taxonomies]
+  category = "categories"
+  campus = "campuses"
+  tag = "tags"
+  material = "materials"
+
+[menu]
+[[menu.main]]
+identifier = "Campuses"
+name = "Campus list"
+url = "/campuses/"
+weight = 10
+
+[Author]
+name = "The Campus Coalition"
+bio = "The Ontario Universities and Colleges Coalition (OUCC) represents over 435,000 faculty, staff, and students from every public postsecondary institution in Ontario. It includes members of the Canadian Federation of Students–Ontario, Canadian Union of Public Employees, Ontario Confederation of University Faculty Associations, Ontario Public Service Employees Union, Ontario Secondary Schools Teachers’ Federation, Public Service Alliance of Canada, Unifor, and United Steelworkers."
+avatar = "img/avatar.png"
+
+[Params]
+#
+  subtitle = "Ontario Universities & Colleges Coalition" # Subtitle of your site
+  description = "OUCC is a coalition of workers, academic associations, faculty, and students in Ontario." # Description of your site
+  opengraph = true
+  twitter_cards = true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true
+  post_navigation = true
+  postSections = ["post"]
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "materials", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+  search = true
+  social_email = ["info@campuscoalition.org"]
+  tags = true

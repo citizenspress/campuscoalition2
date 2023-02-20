@@ -1,0 +1,7 @@
+{{- if .Params.campuses }}
+<div class="meta__item-categories meta__item">
+
+	<svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m6 2l1 2h8v11h-16v-13z"/></svg>
+	<span class="meta__text">{{ range $index, $campus := .Params.campuses }}{{ if gt $index 0 }}, {{ end }}<a class="meta__link" href="{{ "campuses/" | relLangURL }}{{ . | urlize | lower }}" rel="categorya">{{ . }}</a>{{ end }}</span>
+</div>
+{{ end -}}
